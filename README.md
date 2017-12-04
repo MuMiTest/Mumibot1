@@ -1,7 +1,7 @@
 # Mumibot1
 its bad.
 Using git:
-$ git clone http://github.com/merkremont/LineVodka
+$ git clone https://github.com/MuMiTest/Mumibot1
 python packages:
 $ pip install thrift==0.9.3
 $ pip install rsa
